@@ -4,5 +4,10 @@ This project will be imploring React.js in the front-end and node.js as its back
 
 This is the official repo of the front end
 
-  * Clone the repository
+  * Fork the repository
   * Run npm install
+  * Add your codes
+  * Push your changes
+  * Make a pull request
+  
+HAPPY CODING!
